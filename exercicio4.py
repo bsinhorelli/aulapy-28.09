@@ -3,7 +3,7 @@
 # ENTRADA 12 $ 4 SAÍDA : Operador inválido
 # ENTRADA 34 / 0 SAÍDA: Não há divisão por zero
 
-num1 = int(input('Digite um valor:'))
+num1 = int(input('Digite um valor: '))
 operador = input('Digite um operador (+,-,* ou /): ')
 num2 = int(input('Digite outro valor:'))
 
